@@ -38,6 +38,8 @@ When combining all of the lots together, the variance is acceptable at 62.29. Ho
 
 Since the p-value of 0.6028 is greater than alpha 0.05, the total manufacturing lot is not statistically significant from normal distribution.
 
+### T-Test for Individual Lots
+
 ![Individual T Tests](https://user-images.githubusercontent.com/110862261/203680498-26f04d73-dac7-406c-a1b4-bda291b66f7a.PNG)
 
 * Lot 1 T-Test
@@ -52,3 +54,22 @@ Similarly to Lot 1, the p-value is greater than the alpha which means that lot 2
 
 At a significance level of 0.05 and the p-value at 0.04168, we can reject the null hypothesis. This means that it is statistically significant from normal distribution. Nevertheless, the mean falls within 95% confidence. 
 
+## Study Design: MechaCar vs Competition
+
+Another study that could be performed to compare MechaCar vs its Competitors would be city vs highway gas efficiency and safety ratings. 
+
+* What metric or metrics are you going to test?
+
+Safety ratings is crucial when consumers compare vehicles for purchase.
+
+* What is the null hypothesis or alternative hypothesis?
+
+The null hypothesis is that the safety rating's mean is zero.
+
+* What statistical test would you use to test the hypothesis?
+
+A multiple linear regression summary for safety ratings.
+
+* What data is needed to run the statistical test?
+
+Data samples of vehicles from MechaCar and its competitors should be collected and compared.
