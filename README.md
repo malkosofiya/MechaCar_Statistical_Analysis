@@ -30,3 +30,5 @@ With an adjusted R-squared of 0.6825, it is safe to conclude that this linear mo
 
 When combining all of the lots together, the variance is acceptable at 62.29. However, when viewing the lots separately, it is clear that lot 3 has a drastically higher variance than lots 1 and 2. In this case, lots 1 and 2 meets the design specification while lot 3 does not.
 
+## T-Tests on Suspension Coils
+
